@@ -1,5 +1,5 @@
 - 👋 Hi, script by @GoodGhafaryAlvan
-- kata kata jancok koe
+- kata kata Dimana ada pesta di situ ada saya
 
 <!---
 GoodGhafaryAlvan/GoodGhafaryAlvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
